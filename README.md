@@ -1,2 +1,2 @@
 # CSC-TAD
-Datasets asnd
+Datasets and code,for more instruction please read the README
