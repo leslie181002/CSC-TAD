@@ -3,7 +3,7 @@ base_model: unsloth/qwen3-14b-unsloth-bnb-4bit
 library_name: peft
 ---
 
-# Model Card for Model ID
+# Due to the upload limit in github, if you are interested in the fintuned model, please turn to the link: https://huggingface.co/leslieseu/Qwen3-14B-CSC-LAD
 
 <!-- Provide a quick summary of what the model is/does. -->
 
