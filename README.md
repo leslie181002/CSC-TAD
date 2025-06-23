@@ -1,2 +1,2 @@
 # CSC-TAD
-Datasets and code,for more instruction please read the README
+Datasets and code,for more instruction please read the paper.
